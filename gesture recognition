@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Emgu.CV.Structure;
 using Emgu.CV;
 using HandGestureRecognition.SkinDetector;
-using Emgu.CV.CvEnum;
+using Emgu.CV.CvEnum; 
 
 namespace HandGestureRecognition
 {
