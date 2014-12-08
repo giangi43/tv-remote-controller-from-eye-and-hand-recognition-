@@ -1,0 +1,6 @@
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Release\HandGestureRecognition.SkinDetector.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Release\HandGestureRecognition.SkinDetector.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Release\Emgu.CV.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Release\Emgu.Util.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Release\HandGestureRecognition.SkinDetector.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Release\HandGestureRecognition.SkinDetector.pdb

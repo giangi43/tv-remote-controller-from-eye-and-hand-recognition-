@@ -1,0 +1,241 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.read.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.write.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.1\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.4\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.4.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.5.3\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\gianluigi\Documents\Downloads\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.2 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.3 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\il giangi\Documents\informatica\HandGestureRecognition 1.6.4 b\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
